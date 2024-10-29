@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MEKXH
-- 👀 I’m interested in C#,AI and Unreal.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in C#,AI,Vue3,React and Unreal.
+- 🌱 I’m currently learning C# and Vue3.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
