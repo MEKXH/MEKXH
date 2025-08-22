@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MEKXH
-- 👀 I’m interested in .NET,AI,Vue3,React and Unreal.
-- 🌱 I’m currently learning Vue3,Python,Go.
+- 👀 I’m interested in GO, AI, Vue3, React, Unreal and .NET.
+- 🌱 I’m currently learning Vue3, Python, Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
