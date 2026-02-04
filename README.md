@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello,%20I'm%20MEKXH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20|%20AI%20Enthusiast%20|%20Data%20Explorer&descSize=18&descAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=180&section=header&text=Hello,%20I'm%20MEKXH&fontSize=42&fontColor=f8f8f2&fontAlignY=35&desc=Backend%20Engineer%20|%20AI%20Enthusiast%20|%20Data%20Explorer&descSize=18&descAlignY=55"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Passionate+about+Backend+Development;Building+AI-Powered+Solutions;Exploring+Big+Data+%26+Analytics;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Passionate+about+Backend+Development;Building+AI-Powered+Solutions;Exploring+Big+Data+%26+Analytics;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +33,8 @@ hobbies: [Open Source Contributing, Tech Blogging, Problem Solving]
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Eino](https://img.shields.io/badge/Eino-00D4AA?style=flat-square&logo=bytedance&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
@@ -43,6 +44,8 @@ hobbies: [Open Source Contributing, Tech Blogging, Problem Solving]
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -55,7 +58,12 @@ hobbies: [Open Source Contributing, Tech Blogging, Problem Solving]
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEKXH&theme=tokyo-night&hide_border=true&bg_color=0D1117&height=280" alt="Contribution Graph"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEKXH&theme=dracula&hide_border=true&bg_color=282a36&height=280" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -69,8 +77,6 @@ hobbies: [Open Source Contributing, Tech Blogging, Problem Solving]
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MEKXH&style=flat-square&color=6AD3F7)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=MEKXH&style=flat-square&color=bd93f9)
 
 </div>
