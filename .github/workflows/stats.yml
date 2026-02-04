@@ -16,7 +16,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=MEKXH&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&rank_icon=github
+          options: username=MEKXH&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&rank_icon=github&card_height=195
           path: profile/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=MEKXH&layout=donut&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36
+          options: username=MEKXH&layout=donut&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&card_height=195
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
