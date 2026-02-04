@@ -64,8 +64,8 @@ hobbies: [Open Source Contributing, Tech Blogging, Problem Solving]
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="58%"/>
-  <img src="./profile/top-langs.svg" width="40%"/>
+  <img src="./profile/stats.svg" height="200"/>
+  <img src="./profile/top-langs.svg" height="200"/>
 </p>
 
 <div align="center">
