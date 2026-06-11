@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">MEKXH's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 214, Total Commits  (last year) : 310, Total PRs: 216, Total Issues: 4, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 214, Total Commits  (last year) : 310, Total PRs: 218, Total Issues: 4, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.07145658977656;
+        stroke-dashoffset: 87.98543468596556;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >216</text>
+      >218</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
